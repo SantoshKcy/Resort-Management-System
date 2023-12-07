@@ -4,6 +4,6 @@
 		</title>
 </head>
 <body>
-	my page from this
+	my page from yoyo
 </body>
 </html>
