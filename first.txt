@@ -4,6 +4,6 @@
 		</title>
 </head>
 <body>
-	I live in Los Angles
+	I live in USA
 </body>
 </html>
